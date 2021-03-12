@@ -1,5 +1,6 @@
 // Frequency Counter pattern
 
+// check if the given 2 strings are Anagram
 function isAnagram(str1, str2) {
   // check for length
 
