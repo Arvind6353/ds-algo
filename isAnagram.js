@@ -1,3 +1,5 @@
+// Frequency Counter pattern
+
 function isAnagram(str1, str2) {
   // check for length
 
