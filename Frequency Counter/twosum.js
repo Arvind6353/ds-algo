@@ -13,4 +13,4 @@ function twoSum(arr, sum) {
   return null;
 }
 
-console.log(twoSum([1, 5, 4, 2, 7, 10], 5)); // 0,2
+console.log(twoSum([10, 15, 4, 2, 7, 10], 5)); // 0,2
